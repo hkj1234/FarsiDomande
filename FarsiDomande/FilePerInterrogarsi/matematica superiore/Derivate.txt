@@ -1,0 +1,49 @@
+24
+D[sinh(x)]
+cosh(x)
+D[cosh(x)]
+sinh(x)
+D[k], k∈R
+0
+D[x]
+1
+D[x^(n)], n∈R
+n * x^(n-1)
+D[sin(x)]
+cos(x)
+D[cos(x)]
+-sin(x)
+D[tan(x)]
+1/((cosx)^2)
+D[cot(x)]
+-1/((sinx)^2)
+D[a^(x)]
+a^(x) * ln(a)
+D[e^(x)]
+e^(x) * ln(e) = e^(x)
+D[loga(x)] //a come base
+1/x * loga(e)
+D[ln(x)]
+1/x
+D[|x|]
+x/|x|
+D[arcsin(x)]
+1/sqrt(1-x^2)
+D[arccos(x)]
+-1/sqrt(1-x^2)
+D[arctan(x)]
+1/(1+x^2)
+D[arccot(x)]
+-1/(1+x^2)
+D[f(x)+g(x)]
+D[f(x)]+D[g(x)]
+D[f(x)*g(x)]
+D[f(x)]*g(x)+D[g(x)]*f(x)
+D[k*f(x)], k∈R
+k*D[f(x)]
+D[1/f(x)]
+-D[f(x)]/f(x)^2
+D[f(x)/g(x)]
+( D[f(x)] * g(x) - D[g(x)] *f(x) ) / g(x)^2
+D[f(g(x))]
+f'(g(x)) * D[g(x)] //f'(g(x)) = fare derivata di f(x) ma al posto di x utillizzare g(x).

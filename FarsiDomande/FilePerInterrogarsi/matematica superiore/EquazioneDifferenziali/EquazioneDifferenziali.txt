@@ -1,0 +1,13 @@
+6
+equazione differenziale del tipo y'=f(x)
+dy/dx=f(x) -> ʃdy/dx dx=ʃf(x)dx -> y=ʃf(x)dx
+problemi di Cauchy
+quando si ha un sistema dove la prima viene f(x)+c e la seconda f(a)=b, a e b ∈ R, facendo cosi si puo ottenere una soluzione determinata
+equazione differenziale a variabili separabili y'=f(x)g(y)
+dy/dx=f(x)g(y) -> dy/g(y) = f(x)dx -> ʃdy/g(y) = ʃf(x)dx
+equazione differenziale lineare del primo ordine y'(x)+a(x)y(x)=f(x) 
+trovare la primitiva di a(x) e moltiplicare per emtrambi parti per e^(A(x)) e si nota che la parte sinistra del uguale si può riscrivere con (f(x)*e^(A(x)))' e dopo si procede risolvendo integrale di f(x)e^(A(x)) e, alla fine, isolare la y
+equazione differenziale omogenee del secondo ordine ay"(x)+by'(x)+cy(x)=0 con a, b e c reali
+risolvere az^2+bz+c=0, e, vedere quanti soluzioni ci sono, in base al numeri dei soluzioni, bisogna fare: (vedi immagine 1)
+equazione differenziale non omogenee del secondo ordine y"(x)+by'(x)+cy(x)=f(x) con b e c reali
+non ho voglia di scrivere, vedi video: https://www.youtube.com/watch?v=8HRB73w1nsY&list=PLpkXLf6Zhdx3pIZBHY5dMpqNmWZ_aeB-K&index=6

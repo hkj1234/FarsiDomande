@@ -1,0 +1,15 @@
+7
+Integrazione per parte
+ʃf(x)*g'(x)dx=f(x)*g(x)-ʃf'(x)*g(x)dx
+Integrazione per sostituzione
+ʃf(g(x))*g'(x)dx=ʃf(y)dy
+Passaggi di integrarezione f(x)/g(x) 1
+divisione tra f(x) e g(x), cosi facendo diventa un polinomio + resto/g(x)
+Passaggi di integrarezione f(x)/g(x) 2
+scomposizione di g(x) in moltiplicazione di polinomi non scomponibili
+Passaggi di integrarezione f(x)/g(x) 3
+scrivere resto/g(x) con la somma dei frazioni col polinomio scomposti
+Passaggi di integrarezione f(x)/g(x) 4
+fare integrale di queste somme
+formula per calcolare volume del solido generato dalla rotazione di f(x) attorno all'asse x nell'intervallo (a,b)
+V=π aʃb f(x)^2 dx

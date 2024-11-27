@@ -1,0 +1,24 @@
+4
+fare integrale nell'intervallo [a,b] dove a è un asintoto verticale verso +∞
+aʃb f(x) dx = lim t->0+ (a+t)ʃb f(x) dx
+fare integrale nell'intervallo [a,b] dove b è un asintoto verticale verso +∞
+aʃb f(x) dx = lim t->0+ aʃ(b-t) f(x) dx
+fare integrale nell'intervallo [a,+∞)
+aʃ(+∞) f(x) dx = lim M->+∞ aʃM f(x) dx
+fare integrale nell'intervallo (-∞,b]
+(-∞)ʃb f(x) dx = lim M->-∞ Mʃb f(x) dx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

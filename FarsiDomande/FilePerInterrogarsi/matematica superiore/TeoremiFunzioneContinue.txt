@@ -1,0 +1,9 @@
+4
+Teorema di esistenza degli zeri
+considerando una funzione continua nell'intervallo [a , b] ∈ R, e f(a)*f(b)<0, allora ci sarà almeno un punto x0 nell'intervallo che f(x0)=0, se in quel intervallo, la funzione è strettamente monotona (solo crescente o solo descrescente), allora x0 è unico.
+Teorema di Rolle
+considerando una funzione continua nell'intervallo [a , b] ∈ R, derivabile nell'intervallo ]a,b[ , e f(a)=f(b), allora ci sarà almeno un punto x0 nell'intervallo che D[f(x0)]=0.
+Teorema di Lagrange
+considerando una funzione continua nell'intervallo [a , b] ∈ R, derivabile nell'intervallo ]a,b[ , ci sarà almeno un punto x0 nell'intervallo che D[f(x0)]=(f(b)-f(a))/(b-a), cioè derivata di x0 è uguale alla coeficiente angolare della retta secante alla punto a e b.
+Teorema di Hopital
+se lim x->x0 f(x)/g(x) diventa una forma intederminata del tipo [0/0] o [∞/∞], allora il limite è uguale al lim x->x0 f'(x)/g'(x) se esiste ed è possibile farlo. (g'(x) deve essere diverso da 0)

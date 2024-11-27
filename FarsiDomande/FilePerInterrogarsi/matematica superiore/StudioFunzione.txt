@@ -1,0 +1,13 @@
+6
+procedura per lo studio della funzione: 1
+calcalare il dominio della funzione
+procedura per lo studio della funzione: 2
+vedere se la funzione è pari, dispari e/o periodiche
+procedura per lo studio della funzione: 3
+studiare il segno della funzione
+procedura per lo studio della funzione: 4
+trovare i eventuali asintoti verticoli, orizzontali e obbliqui
+procedura per lo studio della funzione: 5
+studiare il segno della derivata prima, ovvero andamento della funzione (crescente o descrescente)
+procedura per lo studio della funzione: 6
+studiare il segno della derivata seconda, ovvero la concavità della funzione (concavo o convesso)

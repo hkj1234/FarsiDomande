@@ -1,0 +1,3 @@
+legge l'input dal file col nome "input.txt".
+prima riga deve essere contenuto quante domande sono presente nel file.
+dopo si fanno righe alternate di domande e risposte.
