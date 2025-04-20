@@ -14,18 +14,19 @@ Questo è un semplice programma console scritto in C++, sviluppato durante il te
 
 ## Tecnologia Utilizzata
 
-*   C++
+* C++
 
 ## File di Input
 
 Il programma si aspetta di trovare un file chiamato `input.txt` nella stessa directory dell'eseguibile. Il file deve avere il seguente formato:
 
-*   Una domanda per riga.
-*   La risposta corrispondente sulla riga immediatamente successiva.
+* Il numero delle domande (N)
+* Poi, N volte alternate di domande e risposte.
 
 **Esempio di `input.txt`:**
 
 ```txt
+3
 Qual è la capitale d'Italia?
 Roma
 Quanto fa 2 + 2?
